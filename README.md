@@ -1,5 +1,4 @@
-# CSCI-313
-Data Structures and Algorithms
+# CSCI 313 - Data Structures and Algorithms
 
 All projects required for completion of course.
 
