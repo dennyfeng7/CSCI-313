@@ -41,8 +41,6 @@ public class EmployeeDoublyLinkedList {
         // into the list before the existing employee. Return false
         // if the existing employee doesn't exist in the list
 
-        // add your code here
-
         return false;
     }
 
