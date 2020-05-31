@@ -1,7 +1,4 @@
 # CSCI 313 - Data Structures and Algorithms
-
-All projects required for completion of course.
-
 Instructor: Alex Chen
 
 Semester: Spring 2020
